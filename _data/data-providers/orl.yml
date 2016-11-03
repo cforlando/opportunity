@@ -1,0 +1,26 @@
+name: "Orlando"
+url: "https://data.cityoforlando.net"
+datasets:
+  - topic: "Crime"
+    description: "OPD Crimes"
+    url: "https://data.cityoforlando.net/Orlando-Police/OPD-Crimes/4y9m-jbmz"
+
+  - topic: "Crime"
+    description: "OPD Calls for Service"
+    url: "https://data.cityoforlando.net/Orlando-Police/OPD-Calls-For-Service/69ge-5wp8"
+
+  - topic: "Crime"
+    description: "OPD Response to Resistance"
+    url: "https://data.cityoforlando.net/Orlando-Police/OPD-Response-To-Resistance/ap4w-p9kt"
+
+  - topic: "Crime"
+    description: "OPD Officer-Involved Shootings"
+    url: "https://data.cityoforlando.net/Orlando-Police/OPD-Officer-Involved-Shootings/6kz6-6c7n"
+
+  - topic: "Permits"
+    description: "Business Tax Receipts"
+    url: "https://data.cityoforlando.net/Permitting/Business-Tax-Receipts/5jwt-qw8e"
+
+  - topic: "Permits"
+    description: "Building Permits Issued"
+    url: "https://data.cityoforlando.net/Permitting/Building-Permits-Issued/k5wb-xgjc"
